@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @5h0aib (Mohammed shoaib)
+- 👀 I’m interested in Robot brains and that
+- 🌱 I’m currently learning computer science and engineering
+- 💞️ I’m looking to collaborate on major and thoughtful projects as my bio says.
+- 📫 How to reach me  
+   ->Instagram ->5h0aib
+   ->Facebook  ->Mohammed shoaib
+   ->number    ->008801859598249
