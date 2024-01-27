@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hey I'm Shoaib 👋
 
-<!--
-**5h0aib/5h0aib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a 23-year-old developer based in Bangladesh, and i build stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Check out my [website](https://aboutshoaib.webflow.io/ "website") to learn about me.
+- Explore my [blog](https://medium.com/@shoaibvice "blog") where i share my insights and learnings
+- Stay updated with my journey on [Instagram](https://www.instagram.com/giga_shoaib/) and [Linkedin](https://www.linkedin.com/in/mohammed-shoaib-93b12717b/)
+
+### 📦 ToolBox          
+---
+Frontend Developement: `React` `Next.js` `Tailwind` `Material-UI`
+
+Backend Developement: `Django` `Firebase` `Supabase`
+
+Version Control: `Git` `Gitlab`
+
+others: `Postman` `Scrum` `Jira`
+
+### ⚡ Fun Facts   
+---
+
+- AOT is my fav anime
+- I want to explore the vast space
+- Always appreciate learning new things
+
+### ✉️ Contact
+
+For a quick response, messafe me on [Instagram](https://www.instagram.com/giga_shoaib/) OR [Linkedin](https://www.linkedin.com/in/mohammed-shoaib-93b12717b/)
