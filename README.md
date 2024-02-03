@@ -26,4 +26,4 @@ others: `Postman` `Scrum` `Jira`
 
 ### ✉️ Contact
 
-For a quick response, messafe me on [Instagram](https://www.instagram.com/giga_shoaib/) OR [Linkedin](https://www.linkedin.com/in/mohammed-shoaib-93b12717b/).
+For a quick response, message me on [Instagram](https://www.instagram.com/giga_shoaib/) OR [Linkedin](https://www.linkedin.com/in/mohammed-shoaib-93b12717b/).
