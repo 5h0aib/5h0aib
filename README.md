@@ -9,9 +9,9 @@ I'm a 23-year-old developer based in Bangladesh, and i build stuff.
 
 ### 📦 ToolBox          
 ---
-Frontend Developement: `React` `Next.js` `Tailwind` `Material-UI`
+Frontend Developement: `React` `Next.js` `Tailwind` `Material-UI` `Flutter`
 
-Backend Developement: `Django` `Firebase` `Supabase`
+Backend Developement: `Django` `Flask` `Firebase` `Supabase` 
 
 Version Control: `Git` `Gitlab`
 
@@ -20,10 +20,9 @@ others: `Postman` `Scrum` `Jira`
 ### ⚡ Fun Facts   
 ---
 
-- AOT is my fav anime.
 - I want to explore the vast space.
 - Always appreciate learning new things.
 
 ### ✉️ Contact
 
-For a quick response, message me on [Instagram](https://www.instagram.com/giga_shoaib/) OR [Linkedin](https://www.linkedin.com/in/mohammed-shoaib-93b12717b/).
+For a quick response, message me on [Instagram](https://www.instagram.com/shabbynator/) OR [Linkedin](https://www.linkedin.com/in/mohammed-shoaib-93b12717b/).
