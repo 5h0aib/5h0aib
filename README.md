@@ -1,7 +1,7 @@
 ### Hey I'm Shoaib 👋
 
 
-I'm a 23-year-old developer based in Bangladesh, and i build stuff.
+I'm a 24-year-old developer based in Bangladesh, and i build stuff.
 
 - Check out my [website](https://aboutshoaib.webflow.io/ "website") to learn about me.
 - Explore my [blog](https://medium.com/@shoaibvice "blog") where i share my insights and learnings.
